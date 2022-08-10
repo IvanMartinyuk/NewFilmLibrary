@@ -1,0 +1,116 @@
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\LibraryOfNewFilms.exe.config
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\LibraryOfNewFilms.exe
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\LibraryOfNewFilms.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csprojAssemblyReference.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainView.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\App.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms_MarkupCompile.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms_MarkupCompile.lref
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainView.baml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.g.resources
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.Properties.Resources.resources
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csproj.GenerateResource.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csproj.CoreCompileInputs.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csproj.CopyComplete
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.exe
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\BLL.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\DAL.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\AutoMapper.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\BLL.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\BLL.dll.config
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\DAL.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\DAL.dll.config
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\AutoMapper.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainPageView.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainPageView.baml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\FilmDetailView.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\FilmDetailView.baml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\HumanDetailView.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\HumanDetailView.baml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\LoginAndRegistrationView.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\LoginAndRegistrationView.baml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\CommonServiceLocator.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\UserProfileView.g.cs
+C:\Users\vanec\source\repos\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\UserProfileView.baml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\LibraryOfNewFilms.exe.config
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\LibraryOfNewFilms.exe
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\LibraryOfNewFilms.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\AutoMapper.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\BLL.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\CommonServiceLocator.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\DAL.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Windows.Interactivity.dll
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\BLL.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\BLL.dll.config
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\DAL.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\DAL.dll.config
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\AutoMapper.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csproj.AssemblyReference.cache
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\FilmDetailView.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\HumanDetailView.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\LoginAndRegistrationView.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainPageView.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainView.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\UserProfileView.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\App.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms_MarkupCompile.cache
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms_MarkupCompile.lref
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\FilmDetailView.baml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\HumanDetailView.baml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\LoginAndRegistrationView.baml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainPageView.baml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\MainView.baml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\View\UserProfileView.baml
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.g.resources
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.Properties.Resources.resources
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csproj.GenerateResource.cache
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csproj.CoreCompileInputs.cache
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.csproj.CopyComplete
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.exe
+D:\Downloads\final projects\LibraryOfNewFilm\LibraryOfNewFilms\obj\Debug\LibraryOfNewFilms.pdb

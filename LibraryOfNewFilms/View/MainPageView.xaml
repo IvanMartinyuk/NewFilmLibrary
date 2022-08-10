@@ -1,0 +1,164 @@
+﻿<UserControl x:Class="LibraryOfNewFilms.View.MainPageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LibraryOfNewFilms.View"
+             xmlns:vm="clr-namespace:LibraryOfNewFilms.ViewModels"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.DataContext>
+        <vm:MainPageViewModel></vm:MainPageViewModel>
+    </UserControl.DataContext>
+    <UserControl.Resources>
+        <Style TargetType="ScrollBar">
+            <Setter Property="Background" Value="#FF121212"/>
+            <Setter Property="BorderBrush" Value="Black"></Setter>
+            <Setter Property="Width" Value="1"></Setter>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80*"></ColumnDefinition>
+                <ColumnDefinition Width="{Binding ColumnWidth}"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <Label Foreground="White"
+                   HorizontalAlignment="Center"
+                   FontSize="20"
+                   Height="40"
+                   VerticalAlignment="Top"
+                   Visibility="{Binding NotificationsVisibility}">Your Notifications</Label>
+            <Label Foreground="White"
+                   HorizontalAlignment="Center"
+                   FontSize="30"
+                   VerticalAlignment="Top"
+                   Visibility="{Binding LoadVisibility}">Load...</Label>
+            <ListView Background="{x:Null}"
+                  ItemsSource="{Binding Films}"
+                  ScrollViewer.VerticalScrollBarVisibility="Visible"
+                  BorderBrush="{x:Null}"
+                  SelectedItem="{Binding SelectedFilm}"
+                  Height="{Binding MaxHeight}">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel  Orientation="Horizontal" MaxWidth="{Binding MaxWidth}" >
+                        </WrapPanel>
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <Image Source="{Binding Poster}"
+                                   Width="190"
+                                   Height="300"
+                                   Stretch="Fill"></Image>
+                            <TextBlock Text="{Binding FilmName}" 
+                                       TextWrapping="Wrap"
+                                       MaxWidth="160"
+                                       Foreground="LightCyan"
+                                       HorizontalAlignment="Center"></TextBlock>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+        <StackPanel Grid.Column="1"
+                    Background="#FF292C33"
+                    Visibility="{Binding LoadButtonVisibility}">
+            <Button Height="20"
+                    Command="{Binding LoadMoreFilmCommand}"
+                    Background="White"
+                    Margin="20 20 20 0"
+                    Visibility="{Binding LoadButtonVisibility}">Load more film</Button>
+            <Button Height="20"
+                    Command="{Binding LoadDataCommand}"
+                    Background="White"
+                    Margin="20 0"
+                    Visibility="{Binding LoadButtonVisibility}">Load data</Button>
+            <Button Height="20" Command="{Binding StopLoadDataCommand}"
+                    Background="White"
+                    Margin="20 0"
+                    Visibility="{Binding LoadButtonVisibility}">Stop load data</Button>
+            <Label Foreground="White"
+                       HorizontalAlignment="Center"
+                       FontWeight="Bold" 
+                       FontStyle="Italic">Search</Label>
+            <TextBox Text="{Binding FindString}"
+                     Margin="20 10"
+                     Name="TextBox">
+                <TextBox.InputBindings>
+                    <KeyBinding Key="Enter"
+                                Command="{Binding SearchCommand}"
+                                CommandParameter="{Binding ElementName=TextBox, Path=Text}"></KeyBinding>
+                    <KeyBinding Key="Esc"
+                                Command="{Binding RestoreFilmsCommand}"></KeyBinding>
+                </TextBox.InputBindings>
+            </TextBox>
+            <Label Foreground="White"
+                       HorizontalAlignment="Center" 
+                       FontWeight="Bold" 
+                       FontStyle="Italic">Genres</Label>
+            <Button Command="{Binding ResetGenresCommand}"
+                    Background="White"
+                    Margin="20 0">All genres</Button>
+            <ComboBox BorderBrush="{x:Null}"
+                      Background="White"
+                      ItemsSource="{Binding Genres}"
+                      MaxHeight="254"
+                      SelectedItem="{Binding SelectedGenre}"
+                      Margin="20 10">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <ListBoxItem MaxWidth="90">
+                            <TextBlock Text="{Binding GenreName}"></TextBlock>
+                        </ListBoxItem>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Label Foreground="White"
+                       HorizontalAlignment="Center" 
+                       FontWeight="Bold" 
+                       FontStyle="Italic">Actors</Label>
+            <Button Command="{Binding ResetActorsCommand}"
+                    Background="White"
+                    Margin="20 0">All actors</Button>
+            <ComboBox BorderBrush="{x:Null}"
+                      Background="White"
+                      ItemsSource="{Binding Actors}"
+                      MaxHeight="254"
+                      SelectedItem="{Binding SelectedActor}"
+                      Margin="20 10">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <ListBoxItem MaxWidth="90">
+                            <TextBlock Text="{Binding ActorName}"></TextBlock>
+                        </ListBoxItem>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <Label Foreground="White"
+                       HorizontalAlignment="Center" 
+                       FontWeight="Bold" 
+                       FontStyle="Italic">Producers</Label>
+            <Button Command="{Binding ResetProducersCommand}"
+                    Background="White"
+                    Margin="20 0">All producers</Button>
+            <ComboBox BorderBrush="{x:Null}"
+                      Background="White"
+                      ItemsSource="{Binding Producers}"
+                      MaxHeight="254"
+                      SelectedItem="{Binding SelectedProducer}"
+                      Margin="20 10">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <ListBoxItem MaxWidth="90">
+                            <TextBlock Text="{Binding ProducerName}"></TextBlock>
+                        </ListBoxItem>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            
+        </StackPanel>
+    </Grid>
+</UserControl>

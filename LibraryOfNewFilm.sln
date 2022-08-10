@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B41827C6-356C-456D-AE03-7CAC27FB9458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryOfNewFilms", "LibraryOfNewFilms\LibraryOfNewFilms.csproj", "{2C949A9B-FC8F-4D08-B7C9-8D4E768446FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{A7125CA3-768A-48FB-A976-17EF3AB45A03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B41827C6-356C-456D-AE03-7CAC27FB9458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B41827C6-356C-456D-AE03-7CAC27FB9458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B41827C6-356C-456D-AE03-7CAC27FB9458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B41827C6-356C-456D-AE03-7CAC27FB9458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C949A9B-FC8F-4D08-B7C9-8D4E768446FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C949A9B-FC8F-4D08-B7C9-8D4E768446FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C949A9B-FC8F-4D08-B7C9-8D4E768446FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C949A9B-FC8F-4D08-B7C9-8D4E768446FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7125CA3-768A-48FB-A976-17EF3AB45A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7125CA3-768A-48FB-A976-17EF3AB45A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7125CA3-768A-48FB-A976-17EF3AB45A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7125CA3-768A-48FB-A976-17EF3AB45A03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49415952-5376-4229-A450-1071B763B326}
+	EndGlobalSection
+EndGlobal

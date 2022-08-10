@@ -1,0 +1,38 @@
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\BLL.dll.config
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\BLL.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\BLL.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\AutoMapper.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\DAL.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\DAL.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\DAL.dll.config
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\AutoMapper.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\obj\Debug\BLL.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\obj\Debug\BLL.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\BLL.dll.config
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\BLL.dll
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\BLL.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\AutoMapper.dll
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\DAL.dll
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.dll
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\DAL.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\DAL.dll.config
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\AutoMapper.xml
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.xml
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\obj\Debug\BLL.dll
+D:\Downloads\final projects\LibraryOfNewFilm\BLL\obj\Debug\BLL.pdb

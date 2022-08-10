@@ -1,0 +1,24 @@
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\bin\Debug\DAL.dll.config
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\bin\Debug\DAL.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\bin\Debug\DAL.pdb
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\obj\Debug\DAL.dll
+C:\Users\vanec\source\repos\LibraryOfNewFilm\DAL\obj\Debug\DAL.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\bin\Debug\DAL.dll.config
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\bin\Debug\DAL.dll
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\bin\Debug\DAL.pdb
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.dll
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.xml
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\obj\Debug\DAL.dll
+D:\Downloads\final projects\LibraryOfNewFilm\DAL\obj\Debug\DAL.pdb
